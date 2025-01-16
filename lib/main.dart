@@ -1,6 +1,6 @@
 // main.dart
 import 'package:flutter/material.dart';
-import 'ServeurQuestion.dart'; // Importer le fichier contenant la logique
+import 'ServeurQuestion.dart'; //contient la logique de l'application
 
 void main() {
   runApp(const MyApp());
